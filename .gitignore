@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.log
+error.log
+watcher.log
+*.tmp
+*.bak
+.env
+service-principal-output.txt
+logs/*
+!logs/.gitkeep
+status/*.json
+status/*.jsonl
