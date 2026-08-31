@@ -1,0 +1,92 @@
+{
+  "run_id": "20260831-143407",
+  "status": "success",
+  "current_step": null,
+  "started_at": "2026-08-31T14:34:07.698Z",
+  "finished_at": "2026-08-31T14:34:23.374Z",
+  "duration_seconds": 15.68,
+  "participants": 644,
+  "scan_logs": 4156,
+  "changed": false,
+  "committed": false,
+  "pushed": false,
+  "publish_skipped": false,
+  "commit": null,
+  "pages_url": "https://markusghighi.github.io/lcc-domain-meals-report-dataverse/",
+  "pages_status_code": 200,
+  "error": null,
+  "steps": [
+    {
+      "name": "Dataverse report generation",
+      "status": "success",
+      "started_at": "2026-08-31T14:34:07.704Z",
+      "finished_at": "2026-08-31T14:34:22.861Z",
+      "duration_seconds": 15.16,
+      "exit_code": 0,
+      "message": "Completed",
+      "details": "Report saved: <project>/Meals_Report_py.html\n  (Server übersprungen — nur HTML generiert)"
+    },
+    {
+      "name": "Update GitHub Pages index",
+      "status": "success",
+      "started_at": "2026-08-31T14:34:22.877Z",
+      "finished_at": "2026-08-31T14:34:22.878Z",
+      "duration_seconds": 0.0,
+      "exit_code": 0,
+      "message": "Report index copied to publish repository",
+      "details": "<project>"
+    },
+    {
+      "name": "Read generated counts",
+      "status": "success",
+      "started_at": "2026-08-31T14:34:22.878Z",
+      "finished_at": "2026-08-31T14:34:22.889Z",
+      "duration_seconds": 0.01,
+      "exit_code": 0,
+      "message": "Participants: 644, scan logs: 4156",
+      "details": null
+    },
+    {
+      "name": "Git change detection",
+      "status": "success",
+      "started_at": "2026-08-31T14:34:22.889Z",
+      "finished_at": "2026-08-31T14:34:22.892Z",
+      "duration_seconds": 0.0,
+      "exit_code": 0,
+      "message": "No report changes detected",
+      "details": null
+    },
+    {
+      "name": "Git commit",
+      "status": "skipped",
+      "started_at": null,
+      "finished_at": "2026-08-31T14:34:22.892Z",
+      "duration_seconds": null,
+      "exit_code": 0,
+      "message": "No changes to publish",
+      "details": null
+    },
+    {
+      "name": "Git push",
+      "status": "skipped",
+      "started_at": null,
+      "finished_at": "2026-08-31T14:34:22.929Z",
+      "duration_seconds": null,
+      "exit_code": 0,
+      "message": "No changes to publish",
+      "details": null
+    },
+    {
+      "name": "GitHub Pages check",
+      "status": "success",
+      "started_at": "2026-08-31T14:34:22.930Z",
+      "finished_at": "2026-08-31T14:34:23.373Z",
+      "duration_seconds": 0.44,
+      "exit_code": 0,
+      "message": "HTTP 200",
+      "details": null
+    }
+  ],
+  "published_at": "2026-08-31T14:34:23Z",
+  "source": "github-actions"
+}

@@ -1,0 +1,5 @@
+2026-08-31 14:34:07 [INFO] Automation run started: 20260831-143407
+2026-08-31 14:34:07 [INFO] No portable git credentials; keeping the existing helper
+2026-08-31 14:34:07 [INFO] Start: Dataverse report generation
+2026-08-31 14:34:22 [INFO] Done: Dataverse report generation
+2026-08-31 14:34:23 [INFO] Automation run finished: success in 15.68s
