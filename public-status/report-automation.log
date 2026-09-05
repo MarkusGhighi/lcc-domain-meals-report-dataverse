@@ -183,3 +183,8 @@
 2026-09-05 13:35:29 [INFO] Start: Dataverse report generation
 2026-09-05 13:35:46 [INFO] Done: Dataverse report generation
 2026-09-05 13:35:46 [INFO] Automation run finished: success in 17.14s
+2026-09-05 16:21:08 [INFO] Automation run started: 20260905-162108
+2026-09-05 16:21:08 [INFO] No portable git credentials; keeping the existing helper
+2026-09-05 16:21:08 [INFO] Start: Dataverse report generation
+2026-09-05 16:21:18 [INFO] Done: Dataverse report generation
+2026-09-05 16:21:18 [INFO] Automation run finished: success in 10.37s
