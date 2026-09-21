@@ -1,10 +1,10 @@
 {
-  "run_id": "20260921-200215",
+  "run_id": "20260921-232419",
   "status": "success",
   "current_step": null,
-  "started_at": "2026-09-21T20:02:15.362Z",
-  "finished_at": "2026-09-21T20:02:32.896Z",
-  "duration_seconds": 17.53,
+  "started_at": "2026-09-21T23:24:19.039Z",
+  "finished_at": "2026-09-21T23:24:37.810Z",
+  "duration_seconds": 18.77,
   "participants": 644,
   "scan_logs": 4249,
   "changed": true,
@@ -19,9 +19,9 @@
     {
       "name": "Dataverse report generation",
       "status": "success",
-      "started_at": "2026-09-21T20:02:15.370Z",
-      "finished_at": "2026-09-21T20:02:32.694Z",
-      "duration_seconds": 17.32,
+      "started_at": "2026-09-21T23:24:19.047Z",
+      "finished_at": "2026-09-21T23:24:37.612Z",
+      "duration_seconds": 18.57,
       "exit_code": 0,
       "message": "Completed",
       "details": "Report saved: <project>/Meals_Report_py.html\n  (Server übersprungen — nur HTML generiert)"
@@ -29,8 +29,8 @@
     {
       "name": "Update GitHub Pages index",
       "status": "success",
-      "started_at": "2026-09-21T20:02:32.702Z",
-      "finished_at": "2026-09-21T20:02:32.703Z",
+      "started_at": "2026-09-21T23:24:37.620Z",
+      "finished_at": "2026-09-21T23:24:37.621Z",
       "duration_seconds": 0.0,
       "exit_code": 0,
       "message": "Report index copied to publish repository",
@@ -39,8 +39,8 @@
     {
       "name": "Read generated counts",
       "status": "success",
-      "started_at": "2026-09-21T20:02:32.703Z",
-      "finished_at": "2026-09-21T20:02:32.720Z",
+      "started_at": "2026-09-21T23:24:37.621Z",
+      "finished_at": "2026-09-21T23:24:37.638Z",
       "duration_seconds": 0.02,
       "exit_code": 0,
       "message": "Participants: 644, scan logs: 4249",
@@ -49,9 +49,9 @@
     {
       "name": "Git change detection",
       "status": "success",
-      "started_at": "2026-09-21T20:02:32.720Z",
-      "finished_at": "2026-09-21T20:02:32.725Z",
-      "duration_seconds": 0.01,
+      "started_at": "2026-09-21T23:24:37.638Z",
+      "finished_at": "2026-09-21T23:24:37.642Z",
+      "duration_seconds": 0.0,
       "exit_code": 0,
       "message": "No report changes detected",
       "details": null
@@ -60,7 +60,7 @@
       "name": "Git commit",
       "status": "skipped",
       "started_at": null,
-      "finished_at": "2026-09-21T20:02:32.725Z",
+      "finished_at": "2026-09-21T23:24:37.643Z",
       "duration_seconds": null,
       "exit_code": 0,
       "message": "No changes to publish",
@@ -70,7 +70,7 @@
       "name": "Git push",
       "status": "skipped",
       "started_at": null,
-      "finished_at": "2026-09-21T20:02:32.726Z",
+      "finished_at": "2026-09-21T23:24:37.643Z",
       "duration_seconds": null,
       "exit_code": 0,
       "message": "No changes to publish",
@@ -79,14 +79,14 @@
     {
       "name": "GitHub Pages check",
       "status": "success",
-      "started_at": "2026-09-21T20:02:32.726Z",
-      "finished_at": "2026-09-21T20:02:32.895Z",
+      "started_at": "2026-09-21T23:24:37.643Z",
+      "finished_at": "2026-09-21T23:24:37.809Z",
       "duration_seconds": 0.17,
       "exit_code": 0,
       "message": "HTTP 200",
       "details": null
     }
   ],
-  "published_at": "2026-09-21T20:02:32Z",
+  "published_at": "2026-09-21T23:24:37Z",
   "source": "github-actions"
 }
